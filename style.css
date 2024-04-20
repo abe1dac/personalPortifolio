@@ -10,6 +10,7 @@ html{
 body{
     
     color: #fff;
+    bacground-color:Black;
     background-image: url(images/portifolio.jpg);
     background-size: cover;
     background-repeat: no-repeat;
